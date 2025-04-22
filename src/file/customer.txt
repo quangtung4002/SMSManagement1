@@ -1,0 +1,21 @@
+C001 | Alice Johnson     | 0912345678
+C002 | Bob Smith         | 0987654321
+C003 | Charlie Brown     | 0909090909
+C004 | Diana Prince      | 0933333333
+C005 | Evan Davis        | 0977777777
+C006 | Fiona Adams       | 0923456789
+C007 | George Miller     | 0966666666
+C008 | Hannah Scott      | 0944444444
+C009 | Ian Wright        | 0938383838
+C010 | Julia Roberts     | 0902020202
+C011 | Kevin Lee         | 0971234567
+C012 | Laura Clark       | 0959595959
+C013 | Michael Jordan    | 0919191919
+C014 | Natalie Tran      | 0929292929
+C015 | Oliver Twist      | 0969696969
+C016 | Patricia Nguyen   | 0988989898
+C017 | Quentin Tarantino | 0949494949
+C018 | Rachel Green      | 0939393939
+C019 | Steven King       | 0901010101
+C020 | Tiffany Young     | 0977979797
+

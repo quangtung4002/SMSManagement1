@@ -1,0 +1,20 @@
+P001,Laptop Pro,Dell,piece,Electronics,50,20,1200.0
+P002,Smartphone X,Samsung,piece,Electronics,100,60,899.0
+P003,Washing Machine,LG,piece,Home Appliance,30,15,650.0
+P004,LED TV 55",Sony,piece,Electronics,25,10,1100.0
+P005,Bluetooth Speaker,JBL,piece,Audio,75,40,120.0
+P006,Air Conditioner,Panasonic,piece,Home Appliance,20,8,750.0
+P007,Microwave Oven,Sharp,piece,Home Appliance,40,18,220.0
+P008,Tablet Z,Apple,piece,Electronics,60,35,999.0
+P009,Apple,iFruit,kg,Food,100,20,2.5
+P010,Electric Kettle,Philips,piece,Home Appliance,70,30,60.0
+P011,Smartwatch S,Garmin,piece,Electronics,55,27,300.0
+P012,Digital Camera,Canon,piece,Photography,22,12,850.0
+P013,Rice Cooker,Tiger,piece,Home Appliance,35,20,180.0
+P014,Hair Dryer,Panasonic,piece,Personal Care,90,45,40.0
+P015,Blender Pro,Philips,piece,Kitchen,50,25,95.0
+P016,Vacuum Cleaner,Dyson,piece,Home Appliance,18,7,450.0
+P017,Projector Mini,Epson,piece,Electronics,28,10,600.0
+P018,Smart Lock,August,piece,Security,33,15,200.0
+P019,Monitor 27",Asus,piece,Electronics,38,18,320.0
+P020,Desk Lamp,Xiaomi,piece,Home,65,30,35.0
